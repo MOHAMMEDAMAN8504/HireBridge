@@ -68,13 +68,4 @@ HireBridge/
 5. **Access the portal**:
    Open your browser and navigate to `http://localhost:8080`.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-Built with ❤️ by [Mohammed Aman](https://github.com/MOHAMMEDAMAN8504)
+Built by [Mohammed Aman](https://github.com/MOHAMMEDAMAN8504)
